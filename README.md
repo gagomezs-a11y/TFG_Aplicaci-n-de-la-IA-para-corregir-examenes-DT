@@ -13,7 +13,8 @@ Este proyecto desarrolla la utilización de la Inteligencia Artificial para pode
 ## 📂 Estructura del proyecto
 ## El proyecto se encuentra dividido en varias carpetas, donde cada una de ellas recoge un código desarrollado para la resolución de las distintas cuestiones que se comentan en el trabajo:
 * Comparador_de_imagenes: En esta carpeta se realiza la comparación de dos imágenes iguales y dos dintintas, dando como resultado una serie de fotos señalando los errores y un número (SSIM), que resume lo parecido que son los dibujos.
-* Puntuador_examenes: Aqui se realiza la puntuación tanto del examen del alumno en compatacion con la correccion del profesor como la verificacion de que se puntua de forma correcta, comparando el examen del profesor con su solucion. 
+* Puntuador_examenes: Aqui se realiza la puntuación tanto del examen del alumno en comparación con la corrección del profesor como la verificación de que se puntúa de forma correcta, comparando el examen del profesor con su solución.
+* Localizador_Coordenadas: Este código de basa en mostrar de forma exacta la localización de las coordenadas, en donde se encuentran las notas de los exámenes.   
 
 ## ⚠️ Nota sobre Privacidad
 Debido a la Ley de Protección de Datos, el dataset de imágenes de exámenes reales de alumnos no se incluye en este repositorio público. El código funciona con cualquier conjunto de imágenes que siga la plantilla de referencia.
